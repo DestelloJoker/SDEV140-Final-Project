@@ -4,7 +4,6 @@ import os
 
 root = Tk()
 root.title('QuickSetLoad')
-root.iconbitmap('Sbstnblnd-Plateau-Apps-amarok.ico')
 root.geometry("600x600")
 
 def open_program():
